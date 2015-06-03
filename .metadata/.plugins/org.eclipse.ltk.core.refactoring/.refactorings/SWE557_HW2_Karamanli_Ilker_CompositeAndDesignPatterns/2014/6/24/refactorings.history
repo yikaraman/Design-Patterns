@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;menuManager&apos; in &apos;org.developer.patterns.TestHead.main(...)&apos; to &apos;root&apos;&#x0A;- Original project: &apos;SWE557_HW2_Karamanli_Ilker_CompositeAndDesignPatterns&apos;&#x0A;- Original element: &apos;org.developer.patterns.TestHead.main(String[]).menuManager&apos;&#x0A;- Renamed element: &apos;menuManager&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;menuManager&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.developer.patterns{TestHead.java[TestHead~main~\[QString;@menuManager!110!153!122!132!QMenuManager;!0!false" name="root" references="true" stamp="1402606614120" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Encapsulate field &apos;org.developer.pattern.composite.Computer.partOfList&apos; in &apos;org.developer.pattern.composite.Computer&apos;&#x0A;- Original project: &apos;StructuralPatterns3_Composite&apos;&#x0A;- Original element: &apos;org.developer.pattern.composite.Computer.partOfList&apos;&#x0A;- Getter method name: &apos;getPartOfList&apos;&#x0A;- Setter method name: &apos;setPartOfList&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;partOfList&apos;" flags="589830" getter="getPartOfList" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;org.developer.pattern.composite{Computer.java[Computer^partOfList" insertion="0" setter="setPartOfList" stamp="1399216056188" version="1.0" visibility="1"/>
-</session>

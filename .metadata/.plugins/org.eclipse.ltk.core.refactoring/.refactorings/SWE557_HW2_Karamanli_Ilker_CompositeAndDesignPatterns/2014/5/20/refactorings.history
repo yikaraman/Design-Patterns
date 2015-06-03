@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;anaMenu&apos; in &apos;org.developer.patterns.TestHead.main(...)&apos; to &apos;mainMenu&apos;&#x0A;- Original project: &apos;Restaurant&apos;&#x0A;- Original element: &apos;org.developer.patterns.TestHead.main(String[]).anaMenu&apos;&#x0A;- Renamed element: &apos;anaMenu&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;anaMenu&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.developer.patterns{TestHead.java[TestHead~main~\[QString;@anaMenu!168!235!173!179!QMenu;!0!false" name="mainMenu" references="true" stamp="1399929115055" version="1.0"/>
-</session>

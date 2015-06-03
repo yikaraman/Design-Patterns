@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;cf&apos; in &apos;org.developer.pattern.Test.main(...)&apos; to &apos;bmw&apos;&#x0A;- Original project: &apos;FactoryDesignPattern&apos;&#x0A;- Original element: &apos;org.developer.pattern.Test.main(String[]).cf&apos;&#x0A;- Renamed element: &apos;cf&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;cf&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;org.developer.pattern{Test.java[Test~main~\[QString;@cf!123!148!134!135!QCarFactory;!0!false" name="bmw" references="true" stamp="1399106895496" version="1.0"/>
-</session>
